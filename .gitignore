@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+*.publishsettings
+data/
+*.csv
+.terraform/
+*.tfstate
+*.tfstate.backup
+.vscode/
+.DS_Store
